@@ -79,7 +79,7 @@
 		// "cursor_1" = CUSTOM CURSOR STYLE 1
 		// "cursor_2" = CUSTOM CURSOR STYLE 2
 
-		var config_cursor_mode = "cursor_1";
+		var config_cursor_mode = "default";
 
 
 
@@ -142,7 +142,7 @@
 		// "waves" = IMAGE EFFECT WAVES
 		// "custom" = IMAGE EFFECT CUSTOM
 
-		var config_profile_image_effect = "tech";
+		var config_profile_image_effect = "abstract";
 
 
 
