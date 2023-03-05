@@ -1,28 +1,28 @@
 /******************************************************************
-	
-	
+
+
 	@ Item          REFRAME - Personal One Page HTML Template
 	@ Version       1.1
 	@ Author		Avanzare
-	@ Website		http://themeforest.net/user/avanzare 
-	
+	@ Website		http://themeforest.net/user/avanzare
+
 
  ******************************************************************/
- 
- 
+
+
  /******************************************************************
 
 
 	------------------------
 	-- TABLE OF CONTENTS --
 	------------------------
-	
+
 
 	--  1. ReadMe
 	--  2. Basic Config
 	--  3. Profile Picture
 	--  4. Background Config
-	
+
 		--  4.1 Background Config [ Color Background ]
 		--  4.2 Background Config [ Square Background ]
 
@@ -33,12 +33,12 @@
 
 /** 1. README
 *******************************************************************/
-	  
-	  
-	  
+
+
+
 	  // 1. DO NOT REMOVE QUOTATION MARKS WHEN GIVEN
 	  // 2. SAVE THE FILE AND REFRESH YOUR BROWSER TO SEE CHANGES
-	
+
 
 
 /** 2. BASIC CONFIG
@@ -59,7 +59,7 @@
 		// "eco_green" = ECO GREEN COLOR SCHEME
 		// "colors_coated_grey" = COATED GREY COLOR SCHEME
 
-		var config_color_scheme = "warning_yellow";
+		var config_color_scheme = "sweet_purple";
 
 
 
@@ -78,13 +78,13 @@
 		// "default" = DEFAULT BROWSER CURSOR
 		// "cursor_1" = CUSTOM CURSOR STYLE 1
 		// "cursor_2" = CUSTOM CURSOR STYLE 2
-		
-		var config_cursor_mode = "cursor_2";
+
+		var config_cursor_mode = "cursor_1";
 
 
 
 		// AUTO CLOSE MENU ON MENU ITEM CLICK ( false = DISABLED )
-		
+
 		var config_menu_close_on_click = true;
 
 
@@ -116,8 +116,8 @@
 			animation: "fade_from_bottom",
 			once: false,
 		};
-		
-		
+
+
 
 /** 3. PROFILE PICTURE CONFIG
 *******************************************************************/
@@ -125,7 +125,7 @@
 
 
 		// PROFILE PICTURE URL
-		var config_profile_image_url = "assets/images/person.jpg";
+		var config_profile_image_url = "assets/images/marty.jpg";
 
 
 
@@ -134,7 +134,7 @@
 		// "tech" = IMAGE EFFECT TECH
 		// "abstract" = IMAGE EFFECT ABSTRACT
 		// "bricks" = IMAGE EFFECT BRICKS
-		// "claw" = IMAGE EFFECT CLAW	
+		// "claw" = IMAGE EFFECT CLAW
 		// "cult" = IMAGE EFFECT CULT
 		// "numbers" = IMAGE EFFECT NUMBERS
 		// "pieces" = IMAGE EFFECT PIECES
@@ -158,49 +158,49 @@
 
 /** 4. BACKGROUND CONFIG
 *******************************************************************/
-		
-		
+
+
 
 		// BACKGROUND MODE [ SEE OPTIONS BELOW ]
-		
-		// "twisted" = TWISTED BACKGORUND 
+
+		// "twisted" = TWISTED BACKGORUND
 		// "color" = IMAGE BACKGROUND
 		// "square" = VIDEO BACKGORUND
 		// "asteroids" = ASTEROIDS BACKGORUND
 		// "circle" = CIRCLE BACKGORUND
-		// "lines" = LINES BACKGORUND 
-		
+		// "lines" = LINES BACKGORUND
+
 		var option_hero_background_mode = "twisted";
 
 
 
 		// BACKGROUND MODE MOBILE [ SEE OPTIONS BELOW ]
-		
+
 		// "color" = IMAGE BACKGROUND
 		// "square" = VIDEO BACKGORUND
 		// "asteroids" = ASTEROIDS BACKGORUND
 		// "circle" = CIRCLE BACKGORUND
-		// "lines" = LINES BACKGORUND 
+		// "lines" = LINES BACKGORUND
 		// "twisted" = TWISTED BACKGORUND
 		// "match" = MATCHES BACKGROUND FROM (option_hero_background_mode)
-		
+
 		var option_hero_background_mode_mobile = "match";
 
 
 
 		/** 4.1 BACKGROUND CONFIG [ COLOR BACKGROUND ]
 		*******************************************************************/
-				
-				
-				
+
+
+
 				// BACKGROUND COLOR
 				var option_hero_background_color_bg = "#212121";
-		
+
 
 
  		/** 4.2 BACKGROUND CONFIG [ SQUARE BACKGROUND ]
 		*******************************************************************/
-		
+
 
 
 				// SQUARE COLORING [ SEE OPTIONS BELOW ]
@@ -219,7 +219,7 @@
 
 		/** 4.3 BACKGROUND CONFIG [ ASTEROIDS BACKGROUND ]
 		*******************************************************************/
-		
+
 
 
 				// BACKGROUND COLOR
@@ -255,7 +255,7 @@
 				// POINTLIGHT INTENSITY
 				var option_hero_background_asteroids_pointlight_intensity = 1;
 
-				
+
 
 				// RECTAREALIGHT COLOR
 				var option_hero_background_asteroids_rectarealight_color = "#111";
@@ -275,7 +275,7 @@
 
 		/** 4.4 BACKGROUND CONFIG [ CIRCLE BACKGROUND ]
 		*******************************************************************/
-		
+
 
 
 				// LINE COLOR
@@ -300,7 +300,7 @@
 
 		/** 4.5 BACKGROUND CONFIG [ LINES BACKGROUND ]
 		*******************************************************************/
-		
+
 
 
 				// LINE COLOR
@@ -320,7 +320,7 @@
 
 		/** 4.6 BACKGROUND CONFIG [ TWISTED BACKGROUND ]
 		*******************************************************************/
-		
+
 
 
 				// LINE COLOR
