@@ -142,7 +142,7 @@
 		// "waves" = IMAGE EFFECT WAVES
 		// "custom" = IMAGE EFFECT CUSTOM
 
-		var config_profile_image_effect = "abstract";
+		var config_profile_image_effect = "bricks";
 
 
 
